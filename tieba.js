@@ -160,7 +160,7 @@ function tianjiaui() {
         },
         events: {
           tapped: function(sender) {
-            $app.openURL("http://ae85.cn/")
+            $app.openURL("http://www.wlzo.cn/")
           }
 
         }
@@ -184,7 +184,7 @@ function tianjiaui() {
         },
         events: {
           tapped: function(sender) {
-            $app.openURL("http://ae85.cn/lxfs.html")
+            $app.openURL("http://www.wlzo.cn/")
           }
 
         }
@@ -208,7 +208,7 @@ function tianjiaui() {
         },
         events: {
           tapped: function(sender) {
-            $app.openURL("http://wpa.qq.com/msgrd?v=3&uin=84088289&site=qq&menu=yes")
+            $app.openURL("http://wpa.qq.com/msgrd?v=3&uin=191042102&site=qq&menu=yes")
           }
 
         }
